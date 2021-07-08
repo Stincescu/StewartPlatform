@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="06/25/21||10:48:37" using="Simscape Multibody Link Version 6.0" from="SolidWorks 28.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="SCAUN_NOBIL" uid="SCAUN_NOBIL" version="224">
+<AssemblyFile name="SCAUN_NOBIL.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Brat motor-6" uid="Brat motor-6" entityUid="Brat motor*:*Default">
+<Transform>
+<Rotation>8.2572837456495998e-16 0.86602540378443826 -0.50000000000000056 -1 9.6490192953954781e-16 0 4.9960036108132034e-16 0.50000000000000056 0.86602540378443826</Rotation>
+<Translation>-0.23781088913299442 0.10099999999999994 -0.49509988822852646</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat-4" uid="Brat-4" entityUid="Brat*:*Default">
+<Transform>
+<Rotation>-0.70979801234029716 0.13383684869520426 0.69157391478358998 0.071494370392472903 -0.96302622967896367 0.25974802396265451 0.70076767668032969 0.23381227273532257 0.6739855224249226</Rotation>
+<Translation>0.48928949055228188 0.34204576791295904 -0.11802617854131198</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat motor-5" uid="Brat motor-5" entityUid="Brat motor*:*Default">
+<Transform>
+<Rotation>-7.1470607210244452e-16 -0.86602540378443837 0.50000000000000033 1.0000000000000002 -6.8001160258290838e-16 2.2204460492503131e-16 1.6653345369377348e-16 0.50000000000000033 0.8660254037844386</Rotation>
+<Translation>0.23781088912985171 0.10100000000000001 -0.49509988823396794</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat-5" uid="Brat-5" entityUid="Brat*:*Default">
+<Transform>
+<Rotation>-0.73064164086173056 -0.13556568129883589 0.66916719786078893 -0.061530693935436843 -0.9630276347347313 -0.26228181111364235 0.67998291621385709 -0.23280833488346425 0.69528664079362756</Rotation>
+<Translation>0.34685767129337575 0.34204545767501937 -0.36472488621573146</Translation>
+</Transform>
+</Instance>
+<Instance name="Baza-1" uid="Baza-1" grounded="true" entityUid="Baza*:*Default">
+<Transform>
+<Rotation>1 0 0 0 0 1 0 -1 0</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat motor-1" uid="Brat motor-1" entityUid="Brat motor*:*Default">
+<Transform>
+<Rotation>2.92300905702092e-16 0.86602540378443849 0.50000000000000044 1 -4.0579567577317046e-16 1.1825691652669386e-16 3.0531133177191805e-16 0.50000000000000044 -0.86602540378443849</Rotation>
+<Translation>-0.54767452518637838 0.10099999999999999 0.041599672833967885</Translation>
+</Transform>
+</Instance>
+<Instance name="Platforma mobila-1" uid="Platforma mobila-1" entityUid="Platforma mobila*:*Default">
+<Transform>
+<Rotation>-0.99999999999570099 -2.9322858384993322e-06 3.0704605524789486e-16 -3.3046482217358175e-16 0 -1 2.9322858383432071e-06 -0.99999999999570111 -1.9428902930940239e-16</Rotation>
+<Translation>8.81239525796218e-16 0.58309084709992609 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat-2" uid="Brat-2" entityUid="Brat*:*Default">
+<Transform>
+<Rotation>0.60800336466636984 -0.26940470970867364 -0.74682863559263624 -0.1692824156578828 -0.96302653276673744 0.20957900881602592 -0.77567736353680272 -0.00099978700798439291 -0.6311288522342593</Rotation>
+<Translation>-0.14243107618491183 0.3420457678682266 0.48275021709739746</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat motor-2" uid="Brat motor-2" entityUid="Brat motor*:*Default">
+<Transform>
+<Rotation>3.3306690738754731e-16 -9.1593399531574665e-16 1 -1 0 3.3306690738754726e-16 0 -1 -9.1593399531574665e-16</Rotation>
+<Translation>-0.30986363605024198 0.10099999999999998 0.45350021540000002</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat-3" uid="Brat-3" entityUid="Brat*:*Default">
+<Transform>
+<Rotation>-0.65694623478223901 0.26940022733042601 0.70416273837782284 -0.18453287450547029 -0.96302778956883262 0.19627810561781062 0.73100565171015441 -0.00099701177669181407 0.68237067868961765</Rotation>
+<Translation>0.14243218267159272 0.34204545808388725 0.48274999834712123</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat motor-3" uid="Brat motor-3" entityUid="Brat motor*:*Default">
+<Transform>
+<Rotation>-2.7755575615628909e-16 -1.2796549272365192e-15 -1.0000000000000002 1.0000000000000002 -6.8809242458671919e-16 -2.7755575615628731e-16 -6.8809242458671909e-16 -1 1.279654927236519e-15</Rotation>
+<Translation>0.30986363605652711 0.10099999999999995 0.45350021539999996</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat motor-4" uid="Brat motor-4" entityUid="Brat motor*:*Default">
+<Transform>
+<Rotation>2.9143354396410359e-16 -0.86602540378443849 -0.5 -1 -1.9428902930940239e-16 -1.1102230246251565e-16 0 0.5 -0.8660254037844386</Rotation>
+<Translation>0.54767452518323667 0.10100000000000001 0.041599672828524913</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat-1" uid="Brat-1" entityUid="Brat*:*Default">
+<Transform>
+<Rotation>-0.54989204264698432 -0.13383698491486815 0.82444308651502718 0.26844480929980075 -0.9630272193643693 0.022714733617733796 0.79092106167020282 0.23380811840530336 0.56548884867365057</Rotation>
+<Translation>-0.48928985200535646 0.34204545792913216 -0.11802511039881287</Translation>
+</Transform>
+</Instance>
+<Instance name="Brat-6" uid="Brat-6" entityUid="Brat*:*Default">
+<Transform>
+<Rotation>-0.82540650350339506 0.13556669386052761 0.54801986778767942 -0.23975220890739807 -0.96302662147351514 -0.12287637957447542 0.51109977724346856 -0.23281193665496014 0.82739085071847629</Rotation>
+<Translation>-0.34685841392800226 0.34204576757179772 -0.36472403778014323</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SCAUN_NOBIL</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SCAUN_NOBIL</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SCAUN_NOBIL</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>-0.54767452518637838 -0.041599672833967843 0.10100000000000001</Position>
+<Axis>-0.86602540378443871 0.49999999999999989 6.4713727801303302e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Brat motor-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat motor-1</Uid>
+</InstancePath>
+<Position>-3.0977247975072508e-07 -0.028999999999997472 0.10000037849031163</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-1</Uid>
+</InstancePath>
+<Position>-3.1507547609832542e-07 0.25029996894592543 -8.9163459948693458e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>-0.30986363605024198 -0.45350021540000002 0.10100000000000001</Position>
+<Axis>8.3266726846886602e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Brat motor-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-2</Uid>
+</InstancePath>
+<Position>-3.1507547604281427e-07 0.25029996894592543 -8.9163457173135896e-10</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat motor-2</Uid>
+</InstancePath>
+<Position>-3.0977247976460287e-07 -0.028999999999997528 0.10000037849031157</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>0.309863636056527 -0.45350021540000007 0.10100000000000001</Position>
+<Axis>1.19638819829962e-15 -1 6.4713727801303312e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Brat motor-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-3</Uid>
+</InstancePath>
+<Position>-3.15075476126081e-07 0.25029996894592532 -8.9163454397578334e-10</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat motor-3</Uid>
+</InstancePath>
+<Position>-3.0977247976460287e-07 -0.028999999999997528 0.10000037849031171</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>0.54767452518323667 -0.041599672828524968 0.10100000000000001</Position>
+<Axis>0.86602540378443837 0.50000000000000033 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Brat motor-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat motor-4</Uid>
+</InstancePath>
+<Position>-3.0977247976460287e-07 -0.028999999999997472 0.10000037849031163</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-4</Uid>
+</InstancePath>
+<Position>-3.1507547609832542e-07 0.25029996894592543 -8.9163459948693458e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>0.23781088912985168 0.49509988823396794 0.10100000000000002</Position>
+<Axis>0.86602540378443837 0.50000000000000033 6.4713727801303342e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Brat motor-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident17">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat motor-5</Uid>
+</InstancePath>
+<Position>-3.0977247976460287e-07 -0.028999999999997472 0.10000037849031168</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-5</Uid>
+</InstancePath>
+<Position>-3.1507547604281427e-07 0.25029996894592543 -8.9163462724251019e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident19">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Baza-1</Uid>
+</InstancePath>
+<Position>-0.23781088913299445 0.49509988822852635 0.10099999999999999</Position>
+<Axis>-0.86602540378443871 0.49999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Brat motor-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident20">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat motor-6</Uid>
+</InstancePath>
+<Position>-3.0977247976460287e-07 -0.028999999999997472 0.10000037849031168</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-6</Uid>
+</InstancePath>
+<Position>-3.15075476126081e-07 0.25029996894592549 -8.9163454397578334e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident23">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Platforma mobila-1</Uid>
+</InstancePath>
+<Position>-0.45579042491412358 0.17654782644533007 -3.7849031153669443e-07</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-4</Uid>
+</InstancePath>
+<Position>3.1507547615383658e-07 -0.2502999689459256 -8.9163459948693458e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident24">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Platforma mobila-1</Uid>
+</InstancePath>
+<Position>-0.38079042491412363 0.30645163701299571 -3.7849031131464983e-07</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-5</Uid>
+</InstancePath>
+<Position>3.1507547626485888e-07 -0.25029996894592543 -8.9163462724251019e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident25">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Platforma mobila-1</Uid>
+</InstancePath>
+<Position>0.38079011514164396 0.30645217355467036 -3.7849031142567213e-07</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-6</Uid>
+</InstancePath>
+<Position>3.1507547607056985e-07 -0.25029996894592554 -8.9163476602038827e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident26">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-1</Uid>
+</InstancePath>
+<Position>3.1507547609832542e-07 -0.25029996894592549 -8.9163465499808581e-10</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Platforma mobila-1</Uid>
+</InstancePath>
+<Position>0.45579011514164364 0.17654836298700421 -3.7849031153669443e-07</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident27">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Platforma mobila-1</Uid>
+</InstancePath>
+<Position>0.075000309772480178 -0.48300000000000026 -3.7849031153669443e-07</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-2</Uid>
+</InstancePath>
+<Position>3.1507547615383658e-07 -0.25029996894592538 -8.9163459948693458e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident28">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Platforma mobila-1</Uid>
+</InstancePath>
+<Position>-0.074999690227519913 -0.48300000000000037 -3.7849031164771674e-07</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>Brat-3</Uid>
+</InstancePath>
+<Position>3.1507547609832542e-07 -0.25029996894592532 -8.9163459948693458e-10</Position>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Baza" uid="Baza*:*Default" version="153">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Baza.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>15.19514789010487</Mass>
+<CenterOfMass>2.5384786088196355e-09 -2.2074763121125819e-08 0.091948626831687752</CenterOfMass>
+<Inertia>1.6001424332567407 1.6001424323671389 3.1534167616324282 -3.7778644267376024e-08 3.5067690721743427e-11 3.1332606834598431e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Baza_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Diffuse r="0.74901960784313726" g="0.74901960784313726" b="0.74901960784313726" a="1"/>
+<Specular r="0.37450980392156863" g="0.37450980392156863" b="0.37450980392156863" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Brat motor" uid="Brat motor*:*Default" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Brat motor.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.058291497346039653</Mass>
+<CenterOfMass>-5.0975537678063237e-09 -0.0043463568004703107 0.039293265468019811</CenterOfMass>
+<Inertia>0.00012031652544219162 0.00011574783862423026 1.6392263746944137e-05 1.1457546739555065e-05 -7.2345576761239863e-12 3.7416289638216822e-13</Inertia>
+</MassProperties>
+<GeometryFile name="Brat motor_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Brat" uid="Brat*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Brat.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.11320056812657639</Mass>
+<CenterOfMass>4.1874296616300039e-07 5.1421698546746326e-08 -2.9291778462438003e-07</CenterOfMass>
+<Inertia>0.0034202701791571353 6.4256296195634623e-06 0.0034227552627033473 -2.9732665311928451e-10 1.1335653166720053e-10 -1.752695618423856e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Brat_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Platforma mobila" uid="Platforma mobila*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Platforma mobila.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.2609803142837483</Mass>
+<CenterOfMass>2.3305378200407834e-08 1.8775337333338317e-07 5.3705146931734263e-07</CenterOfMass>
+<Inertia>0.11321042264656844 0.11321044310581518 0.22570070575910611 -7.9183564159861103e-09 1.1396159728444357e-11 -4.0783988009057536e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Platforma mobila_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
