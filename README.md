@@ -1,6 +1,6 @@
 # StewartPlatform
              A Stewart platform with 6 rotary actuators (stepper motors) made using the model-based design method. 
-The platform was designed in Solidworks and imported in Matlab Simscape Multibody. After that, I designed the control algorithm and tested the platform to find its limits in Simscape and finally I did the embedded version of the project with an Arduino Uno, 6 YKB stepper motor drivers and 3 inductive proximity sensors. The code I wrote is not the cleanest or the prettiest but is the one that worked in such a short period of time. 
+The platform was designed in Solidworks and imported in Matlab Simscape Multibody. After that, I designed the control algorithm and tested the platform to find its limits in Simscape and the embedded version of the project was done with an Arduino Uno, 6 YKB stepper motor drivers and 3 inductive proximity sensors. The code I wrote is not the cleanest or the prettiest but is the one that worked in such a short period of time. 
 
 The Simscape Multibody simulation of the 6 basic movements: translation on X axis, translation on Y axis, translation on Z axis, rotation on Z axis, rotation on Y axis, rotation on X axis.
 
